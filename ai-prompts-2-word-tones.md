@@ -2,7 +2,7 @@
 
 These two little words don’t tell ChatGPT what to write about, but they set the tone and style for how it should respond.
 
-1.“Provide details”
+1. “Provide details”
 2. “Explain briefly”
 3. “Summarize please”
 4. “Give context”
