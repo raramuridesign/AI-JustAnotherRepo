@@ -1,8 +1,12 @@
-# Common AI Words with alterante word suggestions
+# Common AI Words with alternate word suggestions
 
 Using British English.
 
-When using these alternative word suggestion, ALWAYS ensure the word is used in the correct sentence structure and meaning.
+Guide to using the list below.
+
+- Never use the first word in the row, as this is the word which should be replaced.
+- When using a replacement/alternative word, ensure the word being used is used in context of the sentence, to avoid text which does not make sense. 
+- When using these alternative word suggestion, ALWAYS ensure the word is used in the correct sentence structure and meaning.
 
 1. Accent -> Dialect, Inflection, Pronunciation, Tone, Stress
 2. Adapt -> Adjust, Modify, Acclimate, Accommodate, Revise
