@@ -48,6 +48,7 @@
 45. "First and foremost..."
 46. "Let's begin with..."
 47. "To start with..."
+48. "In today's digital age..."
 
 ### Transitional Phrases:
 1. "It is important to note that…"
