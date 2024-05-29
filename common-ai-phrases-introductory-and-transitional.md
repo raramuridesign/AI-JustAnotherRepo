@@ -1,7 +1,5 @@
 # Extended lists for introductory and transitional phrases
 
-Here is the combined list of phrases with duplicates removed:
-
 ### Introductory Phrases:
 1. "In this blog post, we will discuss…"
 2. "To begin with…"
