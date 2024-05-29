@@ -2,14 +2,14 @@
 
 Common phrases and structures often used by AI in content generation:
 
-1. **Introductory Phrases:**
+1. **Introductory Phrases (view separate file for more):**
    - "In today's world..."
    - "It is well known that..."
    - "When it comes to..."
    - "Have you ever wondered..."
    - "As we all know..."
 
-2. **Transitional Phrases:**
+2. **Transitional Phrases (view separate file for more):**
    - "On the other hand..."
    - "Furthermore..."
    - "In addition to..."
@@ -23,6 +23,29 @@ Common phrases and structures often used by AI in content generation:
    - "To put it simply..."
    - "For instance..."
    - "To illustrate this..."
+   - "In essence..."
+   - "That is to say..."
+   - "To clarify..."
+   - "Namely..."
+   - "Specifically..."
+   - "To elaborate..."
+   - "In layman's terms..."
+   - "As an example..."
+   - "In particular..."
+   - "For example..."
+   - "To break it down..."
+   - "Essentially..."
+   - "This implies that..."
+   - "Simply put..."
+   - "Which means..."
+   - "That is..."
+   - "To rephrase..."
+   - "In simple terms..."
+   - "To further explain..."
+   - "In short..."
+   - "Put another way..."
+   - "So, basically..."
+   - "In summary..."
 
 4. **Conclusion Phrases:**
    - "In conclusion,…"
